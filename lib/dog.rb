@@ -12,5 +12,5 @@ class Dog
     @@all.clear 
   end
   
-  
+  def self
   
